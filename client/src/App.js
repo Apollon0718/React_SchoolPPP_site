@@ -150,8 +150,7 @@ class App extends Component {
     )  
   }
 }
-
-        
+    
 
 
 export default compose(
